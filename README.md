@@ -1,2 +1,2 @@
 # discord-website-clone
-A rebuild of Discord's home page using only HMTL5 and CSS3
+While practicing web development, I decided to challenge myself by recreating the Discord homepage as a way to practice Flexbox, Grid, Media Queries, and enhance my overall knowledge.
